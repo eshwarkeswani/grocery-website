@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "name": "Salmon Fillet",
+        "image": "/images/product-images/salmon_fillet.png",
+        "category": "Fish & Meat",
+        "quantity": "1 lb",
+        "price": 12.99
+    },
+    {
+        "id": 2,
+        "name": "Chicken Breasts",
+        "image": "/images/product-images/chicken_breasts.png",
+        "category": "Fish & Meat",
+        "quantity": "2 lbs",
+        "price": 8.99
+    },
+    {
+        "id": 3,
+        "name": "Ribeye Steak",
+        "image": "/images/product-images/ribeye_steak.png",
+        "category": "Fish & Meat",
+        "quantity": "1 lb",
+        "price": 19.99
+    },
+    {
+        "id": 13,
+        "name": "Chicken Wings",
+        "image": "/images/product-images/chicken_wings.png",
+        "category": "Fish & Meat",
+        "quantity": "1 lb",
+        "price": 11.49
+    },
+    {
+        "id": 14,
+        "name": "Red Snapper",
+        "image": "/images/product-images/red_snapper.png",
+        "category": "Fish & Meat",
+        "quantity": "1 lb",
+        "price": 6.99
+    },
+    {
+        "id": 15,
+        "name": "Pork Chops",
+        "image": "/images/product-images/pork_chops.png",
+        "category": "Fish & Meat",
+        "quantity": "1 lb",
+        "price": 7.49
+    },
+    {
+        "id": 4,
+        "name": "Broccoli",
+        "image": "/images/product-images/broccoli.png",
+        "category": "Vegetables",
+        "quantity": "1 lb",
+        "price": 2.99
+    },
+    {
+        "id": 5,
+        "name": "Carrots",
+        "image": "/images/product-images/carrots.png",
+        "category": "Vegetables",
+        "quantity": "2 lbs",
+        "price": 3.49
+    },
+    {
+        "id": 6,
+        "name": "Tomatoes",
+        "image": "/images/product-images/tomatoes.png",
+        "category": "Vegetables",
+        "quantity": "1 lb",
+        "price": 2.79
+    },
+    {
+        "id": 16,
+        "name": "Spinach",
+        "image": "/images/product-images/spinach.png",
+        "category": "Vegetables",
+        "quantity": "1 lb",
+        "price": 3.29
+    },
+    {
+        "id": 17,
+        "name": "Bell Peppers",
+        "image": "/images/product-images/bell_peppers.png",
+        "category": "Vegetables",
+        "quantity": "1 lb",
+        "price": 2.99
+    },
+    {
+        "id": 18,
+        "name": "Onions",
+        "image": "/images/product-images/onions.png",
+        "category": "Vegetables",
+        "quantity": "2 lbs",
+        "price": 1.99
+    },
+    {
+        "id": 9,
+        "name": "Pen",
+        "image": "/images/product-images/pen.png",
+        "category": "Office",
+        "quantity": "1 count",
+        "price": 0.99
+    },
+    {
+        "id": 29,
+        "name": "Notebook",
+        "image": "/images/product-images/notebook.png",
+        "category": "Office",
+        "quantity": "1 count",
+        "price": 3.49
+    },
+    {
+        "id": 30,
+        "name": "Stapler",
+        "image": "/images/product-images/stapler.png",
+        "category": "Office",
+        "quantity": "1 count",
+        "price": 7.99
+    },
+    {
+        "id": 31,
+        "name": "Scissors",
+        "image": "/images/product-images/scissors.png",
+        "category": "Office",
+        "quantity": "1 count",
+        "price": 4.49
+    },
+    {
+        "id": 32,
+        "name": "Sticky Notes",
+        "image": "/images/product-images/sticky_notes.png",
+        "category": "Office",
+        "quantity": "3 pack",
+        "price": 2.99
+    },
+    {
+        "id": 33,
+        "name": "Paper Clips",
+        "image": "/images/product-images/paper_clips.png",
+        "category": "Office",
+        "quantity": "100 count",
+        "price": 1.49
+    },
+    {
+        "id": 10,
+        "name": "Lipstick",
+        "image": "/images/product-images/lipstick.png",
+        "category": "Beauty",
+        "quantity": "1 count",
+        "price": 7.99
+    },
+    {
+        "id": 34,
+        "name": "Mascara",
+        "image": "/images/product-images/mascara.png",
+        "category": "Beauty",
+        "quantity": "1 count",
+        "price": 9.49
+    },
+    {
+        "id": 35,
+        "name": "Makeup Brushes",
+        "image": "/images/product-images/brushes.png",
+        "category": "Beauty",
+        "quantity": "5 count",
+        "price": 14.99
+    },
+    {
+        "id": 36,
+        "name": "Facial Cream",
+        "image": "/images/product-images/cream.png",
+        "category": "Beauty",
+        "quantity": "1.7 oz",
+        "price": 19.99
+    },
+    {
+        "id": 37,
+        "name": "Nail Polish",
+        "image": "/images/product-images/nailpolish.png",
+        "category": "Beauty",
+        "quantity": "1 count",
+        "price": 4.49
+    },
+    {
+        "id": 38,
+        "name": "Hair Gel",
+        "image": "/images/product-images/hair_gel.png",
+        "category": "Beauty",
+        "quantity": "8 oz",
+        "price": 5.99
+    },
+    {
+        "id": 11,
+        "name": "Gardening Gloves",
+        "image": "/images/product-images/gardening_gloves.png",
+        "category": "Gardening",
+        "quantity": "1 pair",
+        "price": 4.99
+    },
+    {
+        "id": 39,
+        "name": "Garden Shears",
+        "image": "/images/product-images/garden_shears.png",
+        "category": "Gardening",
+        "quantity": "1 count",
+        "price": 12.99
+    },
+    {
+        "id": 40,
+        "name": "Seed Packets",
+        "image": "/images/product-images/seed_packets.png",
+        "category": "Gardening",
+        "quantity": "6 count",
+        "price": 7.49
+    },
+    {
+        "id": 41,
+        "name": "Garden Trowel",
+        "image": "/images/product-images/garden_trowel.png",
+        "category": "Gardening",
+        "quantity": "1 count",
+        "price": 6.99
+    },
+    {
+        "id": 42,
+        "name": "Watering Can",
+        "image": "/images/product-images/watering_can.png",
+        "category": "Gardening",
+        "quantity": "1 gallon",
+        "price": 14.99
+    },
+    {
+        "id": 43,
+        "name": "Plant Fertilizer",
+        "image": "/images/product-images/plant_fertilizer.png",
+        "category": "Gardening",
+        "quantity": "5 lbs",
+        "price": 9.49
+    },
+    {
+        "id": 12,
+        "name": "Pomegranate",
+        "image": "/images/product-images/pomegranates.png",
+        "category": "Fruits",
+        "quantity": "1 lb",
+        "price": 3.99
+    },
+    {
+        "id": 44,
+        "name": "Apples",
+        "image": "/images/product-images/apples.png",
+        "category": "Fruits",
+        "quantity": "3 lbs",
+        "price": 4.49
+    },
+    {
+        "id": 45,
+        "name": "Bananas",
+        "image": "/images/product-images/bananas.png",
+        "category": "Fruits",
+        "quantity": "2 lbs",
+        "price": 1.99
+    },
+    {
+        "id": 46,
+        "name": "Oranges",
+        "image": "/images/product-images/oranges.png",
+        "category": "Fruits",
+        "quantity": "2 lbs",
+        "price": 3.49
+    },
+    {
+        "id": 47,
+        "name": "Strawberries",
+        "image": "/images/product-images/strawberries.png",
+        "category": "Fruits",
+        "quantity": "1 lb",
+        "price": 4.99
+    },
+    {
+        "id": 48,
+        "name": "Grapes",
+        "image": "/images/product-images/grapes.png",
+        "category": "Fruits",
+        "quantity": "2 lbs",
+        "price": 5.49
+    }
+]
