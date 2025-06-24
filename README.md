@@ -144,4 +144,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## 📬 Contact
 
-Project Link: [https://github.com/eshwarkeswani/Grocery-Website](https://github.com/eshwarkeswani/Grocery-Website)
+Project Link: [https://github.com/eshwarkeswani/Grocery-Website](https://github.com/eshwarkeswani/grocery-website)
