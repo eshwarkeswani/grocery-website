@@ -4,7 +4,7 @@ import NavigationBar from './assets/Components/Header/NavigationBar';
 import SearchMain from './assets/Components/Hero/SearchMain';
 import Categories from './assets/Components/Products/Categories';
 import ProductsDisplay from './assets/Components/Products/ProductsDisplay';
-import productsData from './data/products.json';
+import productsData from './data/Products.json';
 import ProductBundle from './assets/Components/Products/ProductBundle';
 import Review from './assets/Components/Clients/Review';
 import Footer from './assets/Components/Footer/Footer';
